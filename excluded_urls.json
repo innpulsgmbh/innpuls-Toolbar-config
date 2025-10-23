@@ -1,5 +1,7 @@
 'http://127.0.0.1',
 'http://192.168',
+'http://fritz.box',
+'https://fritz.box',
 
 'https://admin.cloud.microsoft',
 'https://m365.cloud.microsoft',
