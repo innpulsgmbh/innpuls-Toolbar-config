@@ -55,9 +55,9 @@
     "https://web.whatsapp.com",
     "https://www.youtube.com",
 
-    `https://community.hubspot.com`,
-    `https://developers.hubspot.com`,
-    `https://ecosystem.hubspot.com`,
-    `https://knowledge.hubspot.com`,
-    `https://meetings-eu1.hubspot.com`
+    "https://community.hubspot.com",
+    "https://developers.hubspot.com",
+    "https://ecosystem.hubspot.com",
+    "https://knowledge.hubspot.com",
+    "https://meetings-eu1.hubspot.com"
 ]
