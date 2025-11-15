@@ -1,15 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "quickUpdate": true,
   "autoReload": true,
-  "instructions": {
-    "quickSteps": [
-      "📥 Extension herunterladen",
-      "📁 Ordner ersetzen", 
-      "🔄 Extension neu laden"
-    ],
-    "estimatedTime": "< 1 Minute"
-  },
   "changelog": [
     "Ein-Klick-Update Funktion hinzugefügt",
     "Verbesserte Benutzeroberfläche",
