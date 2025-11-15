@@ -1,0 +1,32 @@
+{
+  "version": "1.0.1",
+  "quickUpdate": true,
+  "autoReload": true,
+  "updateMethods": {
+    "sharepoint": {
+      "url": "https://euer-sharepoint.sharepoint.com/sites/team/Shared%20Documents/Extensions/extension.zip",
+      "type": "zip",
+      "description": "SharePoint ZIP-Download (Empfohlen)"
+    },
+    "direct": {
+      "url": "https://euer-sharepoint.sharepoint.com/sites/team/Shared%20Documents/Extensions/",
+      "type": "folder",
+      "description": "SharePoint Ordner"
+    }
+  },
+  "instructions": {
+    "quickSteps": [
+      "📥 Extension herunterladen",
+      "📁 Ordner ersetzen", 
+      "🔄 Extension neu laden"
+    ],
+    "estimatedTime": "< 1 Minute"
+  },
+  "changelog": [
+    "Ein-Klick-Update Funktion hinzugefügt",
+    "Verbesserte Benutzeroberfläche",
+    "Automatische Reload-Erkennung"
+  ],
+  "releaseDate": "2025-11-15T14:00:00Z",
+  "critical": false
+}
