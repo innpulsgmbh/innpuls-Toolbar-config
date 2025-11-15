@@ -2,18 +2,6 @@
   "version": "1.0.1",
   "quickUpdate": true,
   "autoReload": true,
-  "updateMethods": {
-    "sharepoint": {
-      "url": "https://euer-sharepoint.sharepoint.com/sites/team/Shared%20Documents/Extensions/extension.zip",
-      "type": "zip",
-      "description": "SharePoint ZIP-Download (Empfohlen)"
-    },
-    "direct": {
-      "url": "https://euer-sharepoint.sharepoint.com/sites/team/Shared%20Documents/Extensions/",
-      "type": "folder",
-      "description": "SharePoint Ordner"
-    }
-  },
   "instructions": {
     "quickSteps": [
       "📥 Extension herunterladen",
